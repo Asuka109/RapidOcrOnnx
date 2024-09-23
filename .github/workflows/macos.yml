@@ -13,8 +13,8 @@ jobs:
     env:
       ONNX_VERSION: 1.19.2
       ONNX_PKG_NAME: onnxruntime-v1.19.2-macos-14-arm64-static
-      CV_VERSION: 4.8.1
-      CV_PKG_NAME: opencv-4.8.1-macos
+      CV_VERSION: 4.10.0
+      CV_PKG_NAME: opencv-4.10.0-macos-14-arm64
       BIN_PKG_NAME: macos-bin
       JNI_PKG_NAME: macos-jni
       CLIB_PKG_NAME: macos-clib
